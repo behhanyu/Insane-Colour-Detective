@@ -4,7 +4,7 @@
 A simple game in which the player needs to spot the cell with a different color.
 
 ## Project Demo
-The project is still being worked on to put it into a website. For now, you can download it and run it on your console.
+The project is still being worked on to put it into a website. For now, you can download it and run it on your console (just download main game.py file to run in console).
 
 ## Screenshots
 ![Start Game](img/start_game.png)
